@@ -11,7 +11,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
     }
     function leave() {
         changer.style.backgroundColor = "rgb(0,0,0)";
-        text.style.backgroundColor = "rgb(0,0,0)";
+        text.style.backgroundColor = "rgb(255,255,255)";
         changer.removeEventListener("mousemove", move, true);
     }
     function move(e) {
