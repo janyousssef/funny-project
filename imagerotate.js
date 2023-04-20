@@ -25,7 +25,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
     }
     function move(e) {
         //change image
-        image.setAttribute("src","jan.jpeg");
+        image.setAttribute("src","jan_confused.png");
 
         //rotate and scale
         const rotation = ((e.clientX + e.clientY) % 255);
