@@ -1,3 +1,5 @@
+## Another version of this project can be found [here](https://github.com/janyousssef/funny-project/tree/bumblebee)  
+
 # Project summary
 Project is inspired by this [reel](https://www.instagram.com/p/CpiGuJ1O5pL/).  
 This is a lighhearted project not indended as anything.  
