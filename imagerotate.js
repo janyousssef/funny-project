@@ -9,7 +9,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
 
     function enter(event) {
         changer.addEventListener("mousemove", e => move(e));
-        text.innerText = "What I am Actually listnening to:";
+        text.innerText = "What I'm Actually Listnening To:";
     }
     function leave() {
         //reset image state
@@ -19,7 +19,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
         image.setAttribute("src","jan_coding.png");
 
         //reset text
-        text.innerText = "How I look like when coding:";
+        text.innerText = "How I Look Like When Coding:";
         //remove event handler
         changer.removeEventListener("mousemove", move, true);
     }
