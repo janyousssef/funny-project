@@ -10,3 +10,7 @@ Although this is a joke project, it uses a non-trivial amount of technologies; I
 
 ## How to run
 To run this project, download all the files, unpack them, amd simply open `home.html` with your preferred browser.
+
+## This is what is looks like when running
+https://user-images.githubusercontent.com/84196929/233254017-411b024a-9e1b-4170-9554-c23d5f1d7622.mp4
+
